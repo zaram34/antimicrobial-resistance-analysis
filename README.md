@@ -70,8 +70,8 @@ Key components include:
 ### Confusion Matrix
 ![Confusion Matrix](visualizations/confusion_matrix.png)
 
-### ROC Curve
-![ROC Curve](visualizations/roc_curve.png)
+### Distribution of Predicted Probability of High Resistance
+![Distribution Bar Graph](visualizations/distribution_predicted_probability_high_resistance.png)
 
 ### Feature Importance
 ![Feature Importance](visualizations/feature_importance.png)
