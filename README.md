@@ -51,7 +51,6 @@ Key components include:
 ### 5. Model Evaluation
 - Accuracy Score  
 - Confusion Matrix  
-- ROC-AUC Curve (for probabilistic evaluation)  
 - Feature importance analysis for interpretability  
 
 ---
